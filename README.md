@@ -1,3 +1,4 @@
-# R Consortium Charter
+# R Consortium Bylaws & Membership Agreement
 
-R Consortium Charter and Bylaws
+- R Consortium Bylaws
+- R Consortium Membership Agreement
